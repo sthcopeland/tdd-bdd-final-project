@@ -106,3 +106,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+venv/
+.env
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
